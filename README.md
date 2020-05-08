@@ -1,1 +1,3 @@
 # angular9-image-viewer
+
+Just a npm test package to learn how to publish package to npm ...
